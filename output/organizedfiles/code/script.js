@@ -1,0 +1,1 @@
+the content of script.js
